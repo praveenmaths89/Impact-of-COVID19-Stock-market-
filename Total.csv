@@ -1,0 +1,500 @@
+S.No,Stock_tick,Average log returns,Standard deviation of log returns,Security,GICS.Sector,GICS.Sub.Industry,Headquarters.Location,Date.first.added,CIK,Founded
+7,ABMD,0.006198037,0.032815666,ABIOMED Inc,Health Care,Health Care Equipment,"Danvers, Massachusetts",5/31/2018,815094,1981
+38,AMZN,0.005316935,0.027799795,Amazon.com Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",11/18/2005,1018724,1994
+386,PYPL,0.005238856,0.044647794,PayPal,Information Technology,Data Processing & Outsourced Services,"San Jose, California",7/20/2015,1633917,1998
+148,DXCM,0.005090723,0.045177199,DexCom,Health Care,Health Care Equipment,"San Diego, California",5/12/2020,1093557,1999
+150,EBAY,0.004874057,0.026185124,eBay Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",,1065088,1995
+486,WST,0.004479544,0.033452857,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsylvania",5/22/2020,105770,
+345,NVDA,0.004436528,0.048433773,Nvidia Corporation,Information Technology,Semiconductors,"Santa Clara, California",11/30/2001,1045810,
+308,MKTX,0.00430782,0.040161502,MarketAxess,Financials,Financial Exchanges & Data,"New York, New York",7/1/2019,1278021,2000
+99,CMG,0.004245685,0.044461762,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,"Newport Beach, California",4/28/2011,1058090,
+83,CDNS,0.00413482,0.039882413,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",9/18/2017,813672,
+442,TSCO,0.00404215,0.034054171,Tractor Supply Company,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",1/24/2014,916365,
+193,FTNT,0.003862152,0.047099664,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",10/11/2018,1262039,2000
+119,CTXS,0.003709327,0.031516686,Citrix Systems,Information Technology,Application Software,"Fort Lauderdale, Florida",12/1/1999,877890,
+414,SNPS,0.003703054,0.035781196,Synopsys Inc.,Information Technology,Application Software,"Mountain View, California",3/16/2017,883241,
+239,INCY,0.003358075,0.030905419,Incyte,Health Care,Biotechnology,"Wilmington, Delaware",2/28/2017,879169,
+95,CLX,0.003233655,0.024659276,The Clorox Company,Consumer Staples,Household Products,"Oakland, California",3/31/1969,21076,1913
+332,NFLX,0.003164036,0.03357513,Netflix Inc.,Communication Services,Movies & Entertainment,"Los Gatos, California",12/20/2010,1065280,1997
+238,ILMN,0.003149668,0.035381307,Illumina Inc,Health Care,Life Sciences Tools & Services,"San Diego, California",11/19/2015,1110803,
+235,IDXX,0.003001036,0.033992689,IDEXX Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",1/5/2017,874716,
+392,REGN,0.002945503,0.033561739,Regeneron Pharmaceuticals,Health Care,Biotechnology,"Tarrytown, New York",5/1/2013,872589,
+15,ADSK,0.002937672,0.04537667,Autodesk Inc.,Information Technology,Application Software,"San Rafael, California",12/1/1989,769397,
+351,ODFL,0.002937457,0.037912834,Old Dominion Freight Line,Industrials,Trucking,"Thomasville, North Carolina",12/9/2019,878927,1934
+424,SWKS,0.002871532,0.049330379,Skyworks Solutions,Information Technology,Semiconductors,"Woburn, Massachusetts",3/12/2015,4127,
+50,ATVI,0.002838675,0.032317247,Activision Blizzard,Communication Services,Interactive Home Entertainment,"Santa Monica, California",8/31/2015,718877,2008
+254,JBHT,0.002778123,0.037084878,J. B. Hunt Transport Services,Industrials,Trucking,"Lowell, Arkansas",7/1/2015,728535,
+266,KLAC,0.002736866,0.054227846,KLA Corporation,Information Technology,Semiconductor Equipment,"Milpitas, California",,319201,1975/1977 (1997)
+175,FB,0.002723788,0.037332747,"Facebook, Inc.",Communication Services,Interactive Media & Services,"Menlo Park, California",12/23/2013,1326801,
+4,AAPL,0.002657338,0.035633529,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",11/30/1982,320193,1977
+445,TTWO,0.002637652,0.032113263,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York, New York",3/19/2018,946581,
+10,ADBE,0.002619302,0.041444545,Adobe Inc.,Information Technology,Application Software,"San Jose, California",5/5/1997,796343,1982
+245,IPGP,0.002565218,0.044565885,IPG Photonics Corp.,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",3/7/2018,1111928,
+320,MSFT,0.002561412,0.037665629,Microsoft Corp.,Information Technology,Systems Software,"Redmond, Washington",6/1/1994,789019,1975
+75,CAG,0.002476361,0.028264796,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",8/31/1983,23217,
+149,EA,0.002421544,0.030274762,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",7/22/2002,712515,
+177,FCX,0.002389064,0.065818738,Freeport-McMoRan Inc.,Materials,Copper,"Phoenix, Arizona",,831259,1912
+339,NOW,0.002387958,0.042115448,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",11/21/2019,1373715,2003
+331,NEM,0.002319779,0.038673415,Newmont Corporation,Materials,Gold,"Denver, Colorado",6/30/1969,1164727,1921
+174,FAST,0.002252694,0.034863984,Fastenal Co,Industrials,Building Products,"Winona, Minnesota",9/15/2008,815556,1967
+498,ZBRA,0.002241167,0.044002133,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",12/23/2019,877212,1969
+491,XLNX,0.002172296,0.038588843,Xilinx,Information Technology,Semiconductors,"San Jose, California",11/8/1999,743988,
+24,AKAM,0.002098746,0.032517595,Akamai Technologies Inc,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",7/12/2007,1086222,1998
+469,VRTX,0.002081709,0.035662639,Vertex Pharmaceuticals Inc,Health Care,Biotechnology,"Cambridge, Massachusetts",9/23/2013,875320,
+70,BR,0.002071835,0.03197309,Broadridge Financial Solutions,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",6/18/2018,1383312,1962
+287,LOW,0.002059458,0.049869943,Lowe's Cos.,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",2/29/1984,60667,1904/1946/1959
+307,MKC,0.002048057,0.035849491,McCormick & Co.,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",,63754,1889
+458,UPS,0.00201149,0.031823652,United Parcel Service,Industrials,Air Freight & Logistics,"Atlanta, Georgia",7/22/2002,1090727,1907
+417,SPGI,0.001987652,0.043828144,"S&P Global, Inc.",Financials,Financial Exchanges & Data,"New York, New York",,64040,
+131,DHR,0.001978199,0.029033064,Danaher Corp.,Health Care,Health Care Equipment,"Washington, D.C.",,313616,1969
+437,TMO,0.001972894,0.031461987,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",,97745,2006 (1902)
+264,KHC,0.001968001,0.040044537,Kraft Heinz Co,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",7/6/2015,1637459,2015 (1869)
+283,LLY,0.001941846,0.035120197,Lilly (Eli) & Co.,Health Care,Pharmaceuticals,"Indianapolis, Indiana",12/31/1970,59478,1876
+128,DG,0.001937897,0.026745624,Dollar General,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",12/3/2012,29534,1939
+180,FFIV,0.001890912,0.035036427,F5 Networks,Information Technology,Communications Equipment,"Seattle, Washington",12/20/2010,1048695,1996
+43,AOS,0.001877855,0.030893797,A.O. Smith Corp,Industrials,Building Products,"Milwaukee, Wisconsin",7/26/2017,91142,1916
+319,MSCI,0.001866031,0.048406804,MSCI Inc,Financials,Financial Exchanges & Data,"New York, New York",4/4/2018,1408198,
+40,ANSS,0.001858743,0.039596587,ANSYS,Information Technology,Application Software,"Canonsburg, Pennsylvania",6/19/2017,1013462,1969
+35,AMGN,0.001818905,0.032138066,Amgen Inc.,Health Care,Biotechnology,"Thousand Oaks, California",1/2/1992,318154,1980
+26,ALGN,0.001745209,0.057110839,Align Technology,Health Care,Health Care Supplies,"San Jose, California",6/19/2017,1097149,1997
+299,MCHP,0.001730455,0.057193104,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",9/7/2007,827054,
+222,HOLX,0.001696347,0.041745642,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",3/30/2016,859737,
+137,DLTR,0.001695823,0.043987993,Dollar Tree,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",12/19/2011,935703,
+125,DD,0.001667586,0.046566912,DuPont de Nemours Inc,Materials,Specialty Chemicals,"Midland, Michigan",4/2/2019,1666700,2017
+9,ACN,0.001665948,0.038336909,Accenture plc,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",7/6/2011,1467373,1989
+371,PKI,0.001660645,0.030706762,PerkinElmer,Health Care,Health Care Equipment,"Waltham, Massachusetts",5/31/1985,31791,
+198,GIS,0.001658127,0.027165621,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",3/31/1969,40704,1856
+178,FDX,0.001569245,0.04806628,FedEx Corporation,Industrials,Air Freight & Logistics,"Memphis, Tennessee",12/31/1980,1048911,
+105,COG,0.001561053,0.044611092,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,"Houston, Texas",6/23/2008,858470,
+399,ROL,0.001550667,0.031737102,Rollins Inc.,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",10/1/2018,84839,1948
+90,CHRW,0.001519809,0.024707317,C. H. Robinson Worldwide,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",3/2/2007,1043277,1905
+45,APD,0.001512551,0.039699192,Air Products & Chemicals Inc,Materials,Industrial Gases,"Allentown, Pennsylvania",4/30/1985,2969,1940
+387,QCOM,0.001477741,0.04337006,QUALCOMM Inc.,Information Technology,Semiconductors,"San Diego, California",,804328,1985
+354,ORCL,0.001472061,0.038562881,Oracle Corp.,Information Technology,Application Software,"Redwood Shores, California",8/31/1989,1341439,
+8,ABT,0.001466764,0.034824115,Abbott Laboratories,Health Care,Health Care Equipment,"North Chicago, Illinois",3/31/1964,1800,1888
+33,AMD,0.001453813,0.045626265,Advanced Micro Devices Inc,Information Technology,Semiconductors,"Santa Clara, California",3/20/2017,2488,1969
+112,CRM,0.001436172,0.040043658,Salesforce.com,Information Technology,Application Software,"San Francisco, California",9/15/2008,1108524,
+113,CSCO,0.001427476,0.037430244,Cisco Systems,Information Technology,Communications Equipment,"San Jose, California",12/1/1993,858877,
+52,AVGO,0.001396285,0.049947128,Broadcom Inc.,Information Technology,Semiconductors,"San Jose, California",5/8/2014,1730168,1961
+438,TMUS,0.001380762,0.036099476,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",7/15/2019,1283699,1994
+159,EQIX,0.001341162,0.036326806,Equinix,Real Estate,Specialized REITs,"Redwood City, California",3/20/2015,1101239,
+140,DPZ,0.001323772,0.030758723,Domino's Pizza,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",5/12/2020,1286681,1960
+459,URI,0.001277749,0.062072105,"United Rentals, Inc.",Industrials,Trading Companies & Distributors,"Stamford, Connecticut",9/20/2014,1067701,1997
+325,MXIM,0.00123462,0.039275194,Maxim Integrated Products Inc,Information Technology,Semiconductors,"San Jose, California",12/3/2018,743316,1983
+30,ALXN,0.001202303,0.031473166,Alexion Pharmaceuticals,Health Care,Biotechnology,"Boston, Massachusetts",5/25/2012,899866,1992
+355,ORLY,0.001195079,0.041235871,O'Reilly Automotive,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",3/27/2009,898173,
+67,BLK,0.001193882,0.045831083,BlackRock,Financials,Asset Management & Custody Banks,"New York, New York",4/4/2011,1364742,
+100,CMI,0.001185359,0.040457053,Cummins Inc.,Industrials,Industrial Machinery,"Columbus, Indiana",3/31/1965,26172,1919
+398,ROK,0.001182314,0.047248489,Rockwell Automation Inc.,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1024478,
+397,RMD,0.001174765,0.044920052,ResMed,Health Care,Health Care Equipment,"San Diego, California",7/26/2017,943819,
+11,ADI,0.001164898,0.047620946,"Analog Devices, Inc.",Information Technology,Semiconductors,"Norwood, Massachusetts",10/12/1999,6281,1965
+388,QRVO,0.001155681,0.048692769,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",6/11/2015,1604778,2015
+297,MAS,0.001124372,0.038011666,Masco Corp.,Industrials,Building Products,"Livonia, Michigan",6/30/1981,62996,
+447,TXN,0.001089576,0.039442396,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",,97476,1930
+256,JKHY,0.00108432,0.032838772,Jack Henry & Associates,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",11/13/2018,779152,1976
+203,GOOGL,0.001070726,0.033069235,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",4/3/2014,1652044,1998
+434,TGT,0.001057939,0.032153807,Target Corp.,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",12/31/1976,27419,
+288,LRCX,0.001051519,0.059371288,Lam Research,Information Technology,Semiconductor Equipment,"Fremont, California",6/29/2012,707549,
+72,BWA,0.001017702,0.044601154,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",12/19/2011,908255,
+483,WMT,0.00101145,0.027465964,Walmart,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",8/31/1982,104169,
+202,GOOG,0.000973261,0.032678231,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,"Mountain View, California",4/3/2006,1652044,1998
+156,EMN,0.00096903,0.046627357,Eastman Chemical,Materials,Diversified Chemicals,"Kingsport, Tennessee",1/1/1994,915389,
+301,MCO,0.00096489,0.048108609,Moody's Corp,Financials,Financial Exchanges & Data,"New York, New York",,1059556,1909
+136,DLR,0.000936484,0.038968628,Digital Realty Trust Inc,Real Estate,Specialized REITs,"San Francisco, California",5/18/2016,1297996,
+281,LIN,0.000918377,0.035300274,Linde plc,Materials,Industrial Gases,"Guildford, Surrey, United Kingdom",7/1/1992,1707925,1879
+39,ANET,0.000899036,0.040646138,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",8/28/2018,1596532,2004
+400,ROP,0.000864322,0.037978467,Roper Technologies,Industrials,Industrial Conglomerates,"Sarasota, Florida",12/23/2009,882835,
+242,INTU,0.0008604,0.042477797,Intuit Inc.,Information Technology,Application Software,"Mountain View, California",12/5/2000,896878,
+357,PAYC,0.00086039,0.059913252,Paycom,Information Technology,Application Software,"Oklahoma City, Oklahoma",1/28/2020,1590955,1998
+360,PCAR,0.000858487,0.031967046,PACCAR Inc.,Industrials,Construction Machinery & Heavy Trucks,"Bellevue, Washington",12/31/1980,75362,
+323,MTD,0.000800747,0.036878867,Mettler Toledo,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",9/6/2016,1037646,
+6,ABC,0.0007469,0.037436873,AmerisourceBergen Corp,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",8/30/2001,1140859,1985
+163,ETFC,0.000743579,0.057978811,E*Trade,Financials,Investment Banking & Brokerage,"New York, New York",3/31/2004,1015780,
+468,VRSN,0.000736129,0.035686983,Verisign Inc.,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2/1/2006,1014473,
+89,CHD,0.000729491,0.027387729,Church & Dwight,Consumer Staples,Household Products,"Ewing, New Jersey",12/29/2015,313927,
+1,A,0.00071907,0.032921638,Agilent Technologies Inc,Health Care,Health Care Equipment,"Santa Clara, California",6/5/2000,1090872,1999
+5,ABBV,0.00071635,0.029749873,AbbVie Inc.,Health Care,Pharmaceuticals,"North Chicago, Illinois",12/31/2012,1551152,2013 (1888)
+271,KR,0.000690644,0.026600785,Kroger Co.,Consumer Staples,Food Retail,"Cincinnati, Ohio",,56873,1883
+32,AMCR,0.000688232,0.046236163,Amcor plc,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",6/7/2019,1748790,2019 (1860)
+200,GLW,0.000668384,0.0482438,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",,24741,1851
+60,BBY,0.000646189,0.047356011,Best Buy Co. Inc.,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",6/29/1999,764478,
+209,GWW,0.000624239,0.040307942,Grainger (W.W.) Inc.,Industrials,Industrial Machinery,"Lake Forest, Illinois",6/30/1981,277135,
+169,EXPD,0.000585986,0.027752662,Expeditors,Industrials,Air Freight & Logistics,"Seattle, Washington",10/10/2007,746515,1979
+37,AMT,0.000584368,0.041842477,American Tower Corp.,Real Estate,Specialized REITs,"Boston, Massachusetts",11/19/2007,1053507,1995
+61,BDX,0.000563605,0.030349938,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",9/30/1972,10795,1897
+227,HRL,0.000547826,0.026291945,Hormel Foods Corp.,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",3/4/2009,48465,
+318,MS,0.000546776,0.054102214,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York, New York",,895421,1935
+312,MNST,0.000536527,0.032033577,Monster Beverage,Consumer Staples,Soft Drinks,"Corona, California",6/28/2012,865752,
+31,AMAT,0.000501629,0.05547424,Applied Materials Inc.,Information Technology,Semiconductor Equipment,"Santa Clara, California",3/16/1995,6951,1967
+81,CCI,0.000500511,0.039372266,Crown Castle International Corp.,Real Estate,Specialized REITs,"Houston, Texas",3/14/2012,1051470,
+56,AZO,0.000496587,0.041262465,AutoZone Inc,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1/2/1997,866787,
+207,GRMN,0.000443771,0.033166798,Garmin Ltd.,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",12/12/2012,1121788,
+329,NDAQ,0.000401963,0.039602007,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York, New York",10/22/2008,1120193,
+407,SEE,0.000399767,0.052073402,Sealed Air,Materials,Paper Packaging,"Charlotte, North Carolina",,1012100,1960
+334,NKE,0.000397636,0.03856868,Nike,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",11/30/1988,320187,
+215,HD,0.000314715,0.043544,Home Depot,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",3/31/1988,354950,
+457,UNP,0.000314098,0.039714405,Union Pacific Corp,Industrials,Railroads,"Omaha, Nebraska",,100885,1862
+236,IEX,0.000302369,0.03500342,IDEX Corporation,Industrials,Industrial Machinery,"Lake Forest, Illinois",8/9/2019,832101,1988
+467,VRSK,0.000279975,0.036210788,Verisk Analytics,Industrials,Research & Consulting Services,"Jersey City, New Jersey",10/8/2015,1442145,1971
+261,K,0.000278236,0.028100308,Kellogg Co.,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",,55067,1906
+372,PLD,0.000257166,0.043892835,Prologis,Real Estate,Industrial REITs,"San Francisco, California",7/17/2003,1045609,
+231,HUM,0.000244558,0.043803597,Humana Inc.,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961
+108,COST,0.000227469,0.023116634,Costco Wholesale Corp.,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",10/1/1993,909832,
+433,TFX,0.000216859,0.040126893,Teleflex,Health Care,Health Care Equipment,"Wayne, Pennsylvania",1/18/2019,96943,1943
+240,INFO,0.000216601,0.042629115,IHS Markit Ltd.,Industrials,Research & Consulting Services,"London, United Kingdom",6/2/2017,1598014,
+370,PKG,0.000208602,0.040402998,Packaging Corporation of America,Materials,Paper Packaging,"Lake Forest, Illinois",7/26/2017,75677,
+263,KEYS,0.000205833,0.039782909,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",11/6/2018,1601046,2014
+335,NLOK,0.000188685,0.02744742,NortonLifeLock,Information Technology,Application Software,"Tempe, Arizona",3/25/2003,849399,
+102,CNC,0.000187654,0.044324448,Centene Corporation,Health Care,Managed Health Care,"St Louis, Missouri",3/30/2016,1071739,
+91,CHTR,0.000174913,0.030881925,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",9/8/2016,1091667,
+258,JNPR,0.000172388,0.031378719,Juniper Networks,Information Technology,Communications Equipment,"Sunnyvale, California",6/2/2006,1043604,1996
+153,EFX,0.000116616,0.035459182,Equifax Inc.,Industrials,Research & Consulting Services,"Atlanta, Georgia",6/19/1997,33185,1899
+408,SHW,0.000110765,0.041204788,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",6/30/1964,89800,1866
+455,UNH,0.000103575,0.043065059,United Health Group Inc.,Health Care,Managed Health Care,"Minnetonka, Minnesota",7/1/1994,731766,
+423,SWK,0.0001035,0.062100816,Stanley Black & Decker,Industrials,Industrial Machinery,"New Britain, Connecticut",9/30/1982,93556,
+129,DGX,9.41E-05,0.038036697,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",12/12/2002,1022079,
+3,AAP,7.58E-05,0.045834044,Advance Auto Parts,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",7/9/2015,1158449,1932
+404,SBAC,7.54E-05,0.037454187,SBA Communications,Real Estate,Specialized REITs,"Boca Raton, Florida",9/1/2017,1034054,
+479,WHR,5.93E-05,0.058933356,Whirlpool Corp.,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
+347,NWL,2.96E-05,0.052566733,Newell Brands,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",4/30/1989,814453,
+141,DRE,9.53E-06,0.045410133,Duke Realty Corp,Real Estate,Industrial REITs,"Indianapolis, Indiana",7/26/2017,783280,
+241,INTC,-1.94E-06,0.04630431,Intel Corp.,Information Technology,Semiconductors,"Santa Clara, California",12/31/1976,50863,
+409,SIVB,-3.37E-06,0.060396253,SVB Financial,Financials,Regional Banks,"Santa Clara, California",3/19/2018,719739,
+257,JNJ,-4.36E-05,0.027814556,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",6/30/1973,200406,1886
+349,NWSA,-5.81E-05,0.044024973,News Corp. Class A,Communication Services,Publishing,"New York, New York",8/1/2013,1564708,
+77,CAT,-7.83E-05,0.040631271,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",,18230,1925
+446,TWTR,-7.92E-05,0.049740432,"Twitter, Inc.",Communication Services,Interactive Media & Services,"San Francisco, California",6/7/2018,1418091,
+130,DHI,-8.18E-05,0.055316777,D. R. Horton,Consumer Discretionary,Homebuilding,"Fort Worth, Texas",,882184,1978
+249,ISRG,-0.000104387,0.040722151,Intuitive Surgical Inc.,Health Care,Health Care Equipment,"Sunnyvale, California",6/2/2008,1035267,
+36,AMP,-0.000105901,0.068400724,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",10/3/2005,820027,1894
+461,V,-0.000116648,0.039287428,Visa Inc.,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",12/21/2009,1403161,
+311,MMM,-0.000127649,0.033596262,3M Company,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",8/9/1976,66740,1902
+48,ARE,-0.000128306,0.041469878,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",3/20/2017,1035443,1994
+422,STZ,-0.000140807,0.042471101,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",7/1/2005,16918,
+366,PG,-0.000170124,0.030786223,Procter & Gamble,Consumer Staples,Personal Products,"Cincinnati, Ohio",,80424,1837
+184,FLIR,-0.000176793,0.048578974,FLIR Systems,Information Technology,Electronic Equipment & Instruments,"Wilsonville, Oregon",1/2/2009,354908,
+394,RHI,-0.000178024,0.04305382,Robert Half International,Industrials,Human Resource & Employment Services,"Menlo Park, California",12/5/2000,315213,
+251,ITW,-0.000178186,0.040384181,Illinois Tool Works,Industrials,Industrial Machinery,"Glenview, Illinois",2/28/1986,49826,
+187,FMC,-0.000201949,0.050197919,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",8/19/2009,37785,
+197,GILD,-0.000212778,0.032779333,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",7/1/2004,882095,
+246,IQV,-0.000217211,0.046874755,IQVIA Holdings Inc.,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",8/29/2017,1478242,
+190,FRC,-0.000226897,0.045256641,First Republic Bank,Financials,Regional Banks,"San Francisco, California",1/2/2019,1132979,1985
+46,APH,-0.000236153,0.039051048,Amphenol Corp,Information Technology,Electronic Components,"Wallingford, Connecticut",9/30/2008,820313,1932
+310,MMC,-0.000252455,0.034969671,Marsh & McLennan,Financials,Insurance Brokers,"New York, New York",8/31/1987,62709,
+132,DIS,-0.000266745,0.042471451,The Walt Disney Company,Communication Services,Movies & Entertainment,"Burbank, California",6/30/1976,1001039,
+155,EL,-0.000269637,0.037246955,Estée Lauder Companies,Consumer Staples,Personal Products,"New York, New York",1/5/2006,1001250,
+379,PRGO,-0.000277864,0.035561148,Perrigo,Health Care,Pharmaceuticals,"Dublin, Ireland",12/19/2011,1585364,
+94,CL,-0.000280089,0.028446204,Colgate-Palmolive,Consumer Staples,Household Products,"New York, New York",,21665,1806
+294,MA,-0.000280804,0.043655552,Mastercard Inc.,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",7/18/2008,1141391,
+126,DE,-0.000281504,0.042162695,Deere & Co.,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",,315189,1837
+377,PPG,-0.00028889,0.040812643,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",,79879,1883
+145,DVA,-0.000355905,0.034899393,DaVita Inc.,Health Care,Health Care Facilities,"Denver, Colorado",7/31/2008,927066,
+348,NWS,-0.000372299,0.04570397,News Corp. Class B,Communication Services,Publishing,"New York, New York",9/18/2015,1564708,
+151,ECL,-0.000374243,0.044838034,Ecolab Inc.,Materials,Specialty Chemicals,"St. Paul, Minnesota",1/31/1989,31462,
+267,KMB,-0.000409721,0.027933509,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",,55785,1872
+12,ADM,-0.000424927,0.036476593,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products,"Chicago, Illinois",7/29/1981,7084,1902
+65,BKNG,-0.000430517,0.044286389,Booking Holdings Inc,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",11/6/2009,1075531,
+176,FBHS,-0.000437979,0.0553477,Fortune Brands Home & Security,Industrials,Building Products,"Deerfield, Illinois",6/22/2016,1519751,
+480,WLTW,-0.000444303,0.037212934,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",1/5/2016,1140536,
+367,PGR,-0.000481133,0.031456062,Progressive Corp.,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",8/4/1997,80661,
+111,CPRT,-0.000483007,0.041365511,Copart Inc,Industrials,Diversified Support Services,"Dallas, Texas",7/2/2018,900075,1982
+34,AME,-0.000493789,0.045094678,AMETEK Inc.,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",9/23/2013,1037868,1930
+500,ZTS,-0.000526525,0.037201224,Zoetis,Health Care,Pharmaceuticals,"Florham Park, New Jersey",6/21/2013,1555280,1952
+269,KMX,-0.000536156,0.05542938,Carmax Inc,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",6/28/2010,1170010,
+204,GPC,-0.000539737,0.049674691,Genuine Parts,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",12/31/1973,40987,1925
+237,IFF,-0.000544787,0.03722843,Intl Flavors & Fragrances,Materials,Specialty Chemicals,"New York, New York",3/31/1976,51253,
+278,LEN,-0.000566376,0.064680026,Lennar Corp.,Consumer Discretionary,Homebuilding,"Miami, Florida",10/4/2005,920760,
+440,TROW,-0.000586315,0.045310107,T. Rowe Price Group,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
+186,FLT,-0.000595036,0.046428415,FleetCor Technologies Inc,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",6/20/2018,1175454,2000
+114,CSX,-0.000604497,0.044970916,CSX Corp.,Industrials,Railroads,"Jacksonville, Florida",9/30/1967,277948,1980
+482,WMB,-0.000610012,0.063423383,Williams Cos.,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",3/31/1975,107263,
+326,MYL,-0.000610275,0.037321093,Mylan N.V.,Health Care,Pharmaceuticals,"Amsterdam, Netherlands",4/23/2004,1623613,1961
+86,CERN,-0.000619642,0.026969467,Cerner,Health Care,Health Care Technology,"North Kansas City, Missouri",4/30/2010,804753,
+69,BMY,-0.000642571,0.024068526,Bristol-Myers Squibb,Health Care,Health Care Distributors,"New York, New York",,14272,1989
+375,PNR,-0.000643316,0.04670343,Pentair plc,Industrials,Industrial Machinery,"Worsley, UK",10/1/2012,77360,
+194,FTV,-0.000643871,0.044368716,Fortive Corp,Industrials,Industrial Machinery,"Everett, Washington",7/1/2016,1659166,2016
+139,DOW,-0.000650005,0.058955619,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",4/1/2019,1751788,2019
+250,IT,-0.000665664,0.044630843,Gartner Inc,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",4/5/2017,749251,
+208,GS,-0.000670201,0.050275021,Goldman Sachs Group,Financials,Investment Banking & Brokerage,"New York, New York",7/22/2002,886982,
+167,EW,-0.000681861,0.038475774,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",4/1/2011,1099800,
+84,CDW,-0.000685759,0.046588422,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",9/23/2019,1402057,1984
+59,BAX,-0.000689384,0.03356242,Baxter International Inc.,Health Care,Health Care Equipment,"Deerfield, Illinois",9/30/1972,10456,1931
+110,CPB,-0.000718457,0.026738912,Campbell Soup,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",,16732,1869
+341,NSC,-0.000765676,0.046129326,Norfolk Southern Corp.,Industrials,Railroads,"Norfolk, Virginia",,702165,1881/1894 (1980)
+363,PEP,-0.000776089,0.035964761,PepsiCo Inc.,Consumer Staples,Soft Drinks,"Purchase, New York",,77476,1898
+54,AWK,-0.000776724,0.041141884,American Water Works Company Inc,Utilities,Water Utilities,"Camden, New Jersey",3/4/2016,1410636,1886
+300,MCK,-0.000819195,0.039111526,McKesson Corp.,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
+120,CVS,-0.000822299,0.032621041,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",,64803,1996
+115,CTAS,-0.000841433,0.050697265,Cintas Corporation,Industrials,Diversified Support Services,"Mason, Ohio",3/1/2001,723254,1929
+410,SJM,-0.000841745,0.028831414,JM Smucker,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",11/6/2008,91419,
+471,VZ,-0.000841835,0.021933073,Verizon Communications,Communication Services,Integrated Telecommunication Services,"New York, New York",11/30/1983,732712,
+97,CMCSA,-0.000849131,0.034326256,Comcast Corp.,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",9/18/2015,1166691,
+431,TEL,-0.000885211,0.046338877,TE Connectivity Ltd.,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",10/17/2011,1385157,
+316,MRK,-0.000898852,0.028692633,Merck & Co.,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",,310158,1891
+342,NTAP,-0.000903039,0.045590566,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","Sunnyvale, California",6/25/1999,1002047,
+405,SBUX,-0.000909814,0.043308852,Starbucks Corp.,Consumer Discretionary,Restaurants,"Seattle, Washington",,829224,1971
+211,HAS,-0.000943076,0.050525794,Hasbro Inc.,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",9/30/1984,46080,
+364,PFE,-0.00094433,0.029778584,Pfizer Inc.,Health Care,Pharmaceuticals,"New York, New York",,78003,1849
+234,ICE,-0.000944608,0.035366841,Intercontinental Exchange,Financials,Financial Exchanges & Data,"Atlanta, Georgia",9/26/2007,1571949,2000
+420,STT,-0.000972156,0.055054913,State Street Corp.,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,93751,1792
+23,AJG,-0.000975836,0.039768891,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Itasca, Illinois",5/31/2016,354190,
+64,BK,-0.000984176,0.043476523,The Bank of New York Mellon,Financials,Asset Management & Custody Banks,"New York, New York",3/31/1995,1390777,1784
+419,STE,-0.000995645,0.036060965,STERIS plc,Health Care,Health Care Equipment,"Dublin, Ireland",12/23/2019,1757898,1985
+490,XEL,-0.001013574,0.037362426,Xcel Energy Inc,Utilities,Multi-Utilities,"Minneapolis, Minnesota",,72903,1909
+181,FIS,-0.001019053,0.041913779,Fidelity National Information Services,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",11/10/2006,1136893,
+368,PH,-0.001021679,0.057610602,Parker-Hannifin,Industrials,Industrial Machinery,"Cleveland, Ohio",11/30/1985,76334,
+496,YUM,-0.001024738,0.041732901,Yum! Brands Inc,Consumer Discretionary,Restaurants,"Louisville, Kentucky",10/6/1997,1041061,
+340,NRG,-0.001041634,0.044864266,NRG Energy,Utilities,Independent Power Producers & Energy Traders,"Princeton, New Jersey",1/29/2010,1013871,
+273,KSU,-0.001047202,0.047020483,Kansas City Southern,Industrials,Railroads,"Kansas City, Missouri",5/24/2013,54480,
+421,STX,-0.001047559,0.037760036,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",7/2/2012,1137789,
+279,LH,-0.001048834,0.050862709,Laboratory Corp. of America Holding,Health Care,Health Care Services,"Burlington, North Carolina",11/1/2004,920148,
+53,AVY,-0.001051383,0.044435606,Avery Dennison Corp,Materials,Paper Packaging,"Glendale, California",12/31/1987,8818,
+228,HSIC,-0.001062254,0.037961624,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",3/17/2015,1000228,
+384,PWR,-0.001066563,0.044707624,Quanta Services Inc.,Industrials,Construction & Engineering,"Houston, Texas",7/1/2009,1050915,
+68,BLL,-0.001070059,0.035574559,Ball Corp,Materials,Metal & Glass Containers,"Broomfield, Colorado",10/31/1984,9389,
+324,MU,-0.001079372,0.051880943,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",9/27/1994,723125,
+473,WAT,-0.001090324,0.035056528,Waters Corporation,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
+47,APTV,-0.001106478,0.074425765,Aptiv PLC,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",12/24/2012,1521332,1994
+406,SCHW,-0.001115685,0.047268038,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,"San Francisco, California",6/2/1997,316709,
+135,DISH,-0.00112778,0.059358522,Dish Network,Communication Services,Cable & Satellite,"Meridian, Colorado",3/13/2017,1001082,
+435,TIF,-0.001154011,0.023795504,Tiffany & Co.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",6/21/2000,98246,
+344,NUE,-0.001161086,0.045218875,Nucor Corp.,Materials,Steel,"Charlotte, North Carolina",4/30/1985,73309,
+247,IR,-0.001162655,0.048778585,Ingersoll Rand,Industrials,Industrial Machinery,"Milwaukee, Wisconsin",3/3/2020,1699150,1859
+462,VAR,-0.001165706,0.041679415,Varian Medical Systems,Health Care,Health Care Equipment,"Palo Alto, California",2/12/2007,203527,
+157,EMR,-0.001175142,0.051814402,Emerson Electric Company,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",3/31/1965,32604,1890
+362,PEG,-0.001186154,0.03731108,Public Serv. Enterprise Inc.,Utilities,Electric Utilities,"Newark, New Jersey",,788784,
+426,SYK,-0.001219574,0.046445724,Stryker Corp.,Health Care,Health Care Equipment,"Kalamazoo, Michigan",12/12/2000,310764,
+76,CAH,-0.001231305,0.03796105,Cardinal Health Inc.,Health Care,Health Care Distributors,"Dublin, Ohio",5/27/1997,721371,
+143,DTE,-0.001252336,0.046460869,DTE Energy Co.,Utilities,Multi-Utilities,"Detroit, Michigan",,936340,1995
+343,NTRS,-0.001254579,0.04795561,Northern Trust Corp.,Financials,Asset Management & Custody Banks,"Chicago, Illinois",,73124,1889
+298,MCD,-0.001272423,0.039791996,McDonald's Corp.,Consumer Discretionary,Restaurants,"Chicago, Illinois",6/30/1970,63908,1940
+330,NEE,-0.001278006,0.03893286,NextEra Energy,Utilities,Multi-Utilities,"Juno Beach, Florida",6/30/1976,753308,
+118,CTVA,-0.001311443,0.046169063,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",6/3/2019,1755672,2019
+71,BSX,-0.001334961,0.04037859,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",2/24/1995,885725,
+13,ADP,-0.001346568,0.042022966,Automatic Data Processing,Information Technology,Internet Services & Infrastructure,"Roseland, New Jersey",3/31/1981,8670,
+117,CTSH,-0.001361543,0.045754816,Cognizant Technology Solutions,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",11/17/2006,1058290,
+164,ETN,-0.001415285,0.048979319,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",,1551182,1911
+358,PAYX,-0.001416562,0.048103511,Paychex Inc.,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",,723531,1971
+25,ALB,-0.001444811,0.05163443,Albemarle Corp,Materials,Specialty Chemicals,"Charlotte, North Carolina",7/1/2016,915913,1994
+313,MO,-0.001444835,0.03252177,Altria Group Inc,Consumer Staples,Tobacco,"Richmond, Virginia",,764180,1985
+243,IP,-0.001517402,0.047120903,International Paper,Materials,Paper Packaging,"Memphis, Tennessee",,51434,1898
+303,MDT,-0.00155649,0.037901712,Medtronic plc,Health Care,Health Care Equipment,"Dublin, Ireland",10/31/1986,1613103,1949
+472,WAB,-0.001574139,0.050260775,Wabtec Corporation,Industrials,Construction Machinery & Heavy Trucks,"Wilmerding, Pennsylvania",2/27/2019,943452,1999 (1869)
+413,SNA,-0.001576281,0.045800742,Snap-on,Industrials,Industrial Machinery,"Kenosha, Wisconsin",9/30/1982,91440,1920
+302,MDLZ,-0.001592367,0.030953106,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",10/2/2012,1103982,
+62,BEN,-0.001596698,0.046979617,Franklin Resources,Financials,Asset Management & Custody Banks,"San Mateo, California",,38777,1947
+365,PFG,-0.001618966,0.061314149,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",7/22/2002,1126328,
+487,WU,-0.001619747,0.037442865,Western Union Co,Information Technology,Data Processing & Outsourced Services,"Englewood, Colorado",,1365135,1851
+233,IBM,-0.001638266,0.037001327,International Business Machines,Information Technology,IT Consulting & Other Services,"Armonk, New York",,51143,1911
+49,ATO,-0.001639703,0.038910883,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2/15/2019,731802,1906
+101,CMS,-0.001644705,0.036579414,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",5/3/1999,811156,
+171,EXR,-0.001646626,0.037550157,Extra Space Storage,Real Estate,Specialized REITs,"Salt Lake City, Utah",1/19/2016,1289490,
+138,DOV,-0.001655795,0.045288238,Dover Corporation,Industrials,Industrial Machinery,"Downers Grove, Illinois",10/31/1985,29905,1955
+493,XRAY,-0.001673202,0.040500768,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina",11/14/2008,818479,
+465,VMC,-0.00168283,0.049965759,Vulcan Materials,Materials,Construction Materials,"Birmingham, Alabama",6/30/1999,1396009,
+381,PSA,-0.001682892,0.0324158,Public Storage,Real Estate,Specialized REITs,"Glendale, California",8/19/2005,1393311,
+41,ANTM,-0.001698359,0.046926512,Anthem,Health Care,Managed Health Care,"Indianapolis, Indiana",7/25/2002,1156039,2014 (1940s)
+42,AON,-0.00170498,0.037401742,Aon plc,Financials,Insurance Brokers,"London, United Kingdom",4/23/1996,315293,1982 (1919)
+106,COO,-0.001719189,0.037684505,The Cooper Companies,Health Care,Health Care Supplies,"San Ramon, California",9/23/2016,711404,
+282,LKQ,-0.001722367,0.063707569,LKQ Corporation,Consumer Discretionary,Distributors,"Chicago, Illinois",5/23/2016,1065696,
+85,CE,-0.001727958,0.051792885,Celanese,Materials,Specialty Chemicals,"Irving, Texas",12/24/2018,1306830,1918
+161,ES,-0.001742683,0.043306197,Eversource Energy,Utilities,Multi-Utilities,"Springfield, Massachusetts",,72741,1966
+255,JCI,-0.001774838,0.039171463,Johnson Controls International,Industrials,Building Products,"Cork, Ireland",8/27/2010,833444,
+497,ZBH,-0.001815816,0.045683531,Zimmer Biomet Holdings,Health Care,Health Care Equipment,"Warsaw, Indiana",8/7/2001,1136869,
+66,BKR,-0.001833662,0.064677591,Baker Hughes Co,Energy,Oil & Gas Equipment & Services,"Houston, Texas",7/7/2017,1701605,2017
+221,HOG,-0.001843031,0.071792148,Harley-Davidson,Consumer Discretionary,Motorcycle Manufacturers,"Milwaukee, Wisconsin",,793952,1903
+284,LMT,-0.001848651,0.038997111,Lockheed Martin Corp.,Industrials,Aerospace & Defense,"Bethesda, Maryland",7/31/1984,936468,
+481,WM,-0.0018631,0.032294437,Waste Management Inc.,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768,1968
+182,FISV,-0.001866248,0.043600229,Fiserv Inc,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",4/2/2001,798354,
+213,HBI,-0.001874539,0.054597809,Hanesbrands Inc,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",3/20/2015,1359841,2000
+292,LYB,-0.00187982,0.066893419,LyondellBasell,Materials,Specialty Chemicals,"Rotterdam, Netherlands",9/5/2012,1489393,
+205,GPN,-0.001914015,0.052392045,Global Payments Inc.,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",4/25/2016,1123360,
+121,CVX,-0.001927211,0.058265292,Chevron Corp.,Energy,Integrated Oil & Gas,"San Ramon, California",,93410,1879
+63,BIIB,-0.001928157,0.035694683,Biogen Inc.,Health Care,Biotechnology,"Cambridge, Massachusetts",11/13/2003,875045,
+16,AEE,-0.001948522,0.042139384,Ameren Corp,Utilities,Multi-Utilities,"St. Louis, Missouri",9/19/1991,1002910,1902
+476,WEC,-0.001965254,0.042278903,WEC Energy Group,Utilities,Electric Utilities,"Milwaukee, Wisconsin",10/31/2008,783325,
+277,LEG,-0.002007499,0.065892233,Leggett & Platt,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",,58492,1883
+441,TRV,-0.002018912,0.047131002,The Travelers Companies Inc.,Financials,Property & Casualty Insurance,"New York, New York",8/21/2002,86312,
+286,LNT,-0.002033407,0.035979913,Alliant Energy Corp,Utilities,Electric Utilities,"Madison, Wisconsin",7/1/2016,352541,1917
+166,EVRG,-0.00206251,0.046940471,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",6/5/2018,1711269,1909
+92,CI,-0.00209009,0.045730547,CIGNA Corp.,Health Care,Managed Health Care,"Bloomfield, Connecticut",6/30/1976,701221,
+337,NOC,-0.002097477,0.036225842,Northrop Grumman,Industrials,Aerospace & Defense,"West Falls Church, Virginia",6/30/1985,1133421,
+223,HON,-0.002106007,0.042129286,Honeywell Int'l Inc.,Industrials,Industrial Conglomerates,"Morristown, New Jersey",3/31/1964,773840,1906
+179,FE,-0.002106096,0.042380541,FirstEnergy Corp,Utilities,Electric Utilities,"Akron, Ohio",,1031296,1997
+170,EXPE,-0.002114027,0.063851509,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",10/2/2007,1324424,
+123,D,-0.002118135,0.043882789,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,715957,1983
+172,F,-0.002120089,0.051355727,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",,37996,1903
+402,RSG,-0.002122317,0.033189689,Republic Services Inc,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",12/5/2008,1060391,
+195,GD,-0.00214436,0.037021118,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",,40533,1899
+206,GPS,-0.002167732,0.086135232,Gap Inc.,Consumer Discretionary,Apparel Retail,"San Francisco, California",8/31/1986,39911,
+395,RJF,-0.002221791,0.053537967,Raymond James Financial Inc.,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",3/20/2017,720005,
+17,AEP,-0.002270044,0.035918992,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",,4904,1906
+78,CB,-0.002307306,0.045434864,Chubb Limited,Financials,Property & Casualty Insurance,"Zurich, Switzerland",7/15/2010,896159,
+309,MLM,-0.002319732,0.051897422,Martin Marietta Materials,Materials,Construction Materials,"Raleigh, North Carolina",7/2/2014,916076,
+29,ALLE,-0.002376351,0.041500259,Allegion,Industrials,Building Products,"Dublin, Ireland",12/2/2013,1579241,1908
+304,MET,-0.002404901,0.057287149,MetLife Inc.,Financials,Life & Health Insurance,"New York, New York",,1099219,1868
+346,NVR,-0.002421201,0.058475114,NVR Inc,Consumer Discretionary,Homebuilding,"Reston, VA",9/26/2019,906163,1980
+336,NLSN,-0.002422113,0.051892329,Nielsen Holdings,Industrials,Research & Consulting Services,"New York, New York",7/9/2013,1492633,
+152,ED,-0.002427778,0.038288633,Consolidated Edison,Utilities,Electric Utilities,"New York, New York",,1047862,1823
+217,HFC,-0.002437381,0.065152898,HollyFrontier Corp,Energy,Oil & Gas Refining & Marketing,"Dallas, Texas",6/18/2018,48039,
+436,TJX,-0.00246432,0.047002859,TJX Companies Inc.,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",9/30/1985,109198,
+188,FOX,-0.00247383,0.042401853,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York, New York",9/18/2015,1308161,
+216,HES,-0.002538214,0.074610549,Hess Corporation,Energy,Integrated Oil & Gas,"New York, New York",5/31/1984,4447,
+248,IRM,-0.002558761,0.042426916,Iron Mountain Incorporated,Real Estate,Specialized REITs,"Boston, Massachusetts",1/6/2009,1020569,
+474,WBA,-0.002564055,0.041615644,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",12/31/1979,1618921,2014
+382,PSX,-0.002566025,0.059897666,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",5/1/2012,1534701,
+58,BAC,-0.00257577,0.054843871,Bank of America Corp,Financials,Diversified Banks,"Charlotte, North Carolina",6/30/1976,70858,
+488,WY,-0.002585937,0.069647594,Weyerhaeuser,Real Estate,Specialized REITs,"Federal Way, Washington",,106535,1900
+484,WRB,-0.00258969,0.0458051,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",12/5/2019,11544,1967
+189,FOXA,-0.002602047,0.042883671,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York, New York",7/1/2013,1308161,
+499,ZION,-0.002614994,0.046386454,Zions Bancorp,Financials,Regional Banks,"Salt Lake City, Utah",6/22/2001,109380,
+443,TSN,-0.002624252,0.045785596,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",,100493,1935
+492,XOM,-0.002640803,0.045291463,Exxon Mobil Corp.,Energy,Integrated Oil & Gas,"Irving, Texas",,34088,1999
+373,PM,-0.002647842,0.03695316,Philip Morris International,Consumer Staples,Tobacco,"New York, New York",3/31/2008,1413329,
+103,CNP,-0.002650196,0.058472362,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",7/31/1985,1130310,
+463,VFC,-0.002666068,0.052679357,V.F. Corp.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Greensboro, North Carolina",6/30/1979,103379,
+230,HSY,-0.002667095,0.035791126,The Hershey Company,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",,47111,1894
+464,VLO,-0.002677206,0.067449979,Valero Energy,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,1035002,1980
+418,SRE,-0.002703364,0.04654934,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",,1032208,1998
+144,DUK,-0.002711753,0.039025371,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",6/30/1976,1326160,
+253,J,-0.002725495,0.0389899,Jacobs Engineering Group,Industrials,Construction & Engineering,"Dallas, Texas",10/26/2007,52988,
+485,WRK,-0.002756482,0.059864251,WestRock,Materials,Paper Packaging,"Richmond, Virginia",,1636023,2015
+18,AES,-0.002768323,0.056704998,AES Corp,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",10/2/1998,874761,1981
+168,EXC,-0.002776722,0.047175273,Exelon Corp.,Utilities,Multi-Utilities,"Chicago, Illinois",,1109357,2000
+495,XYL,-0.002780747,0.041892354,Xylem Inc.,Industrials,Industrial Machinery,"White Plains, New York",11/1/2011,1524472,2011
+55,AXP,-0.002791486,0.058145813,American Express Co,Financials,Consumer Finance,"New York, New York",6/30/1976,4962,1850
+107,COP,-0.002813231,0.066861438,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",,1163165,2002
+290,LVS,-0.002832335,0.052611922,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",10/3/2019,1300514,1988
+401,ROST,-0.002874976,0.052508855,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",12/21/2009,745732,
+428,T,-0.002882877,0.03356426,AT&T Inc.,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30 (1957-03-04),732717,1983 (1885)
+210,HAL,-0.00290818,0.093293026,Halliburton Co.,Energy,Oil & Gas Equipment & Services,"Houston, Texas",,45012,1919
+22,AIZ,-0.002912553,0.04620821,Assurant,Financials,Multi-line Insurance,"New York, New York",4/10/2007,1267238,
+295,MAA,-0.002934487,0.045374815,Mid-America Apartments,Real Estate,Residential REITs,"Memphis, Tennessee",12/2/2016,912595,
+444,TT,-0.00293646,0.040470708,Trane Technologies plc,Industrials,Building Products,"Dublin, Ireland",11/17/2010,1466258,
+415,SO,-0.002953959,0.044757218,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",,92122,1945
+276,LDOS,-0.002958774,0.038278618,Leidos Holdings,Information Technology,IT Consulting & Other Services,"Reston, Virginia",8/9/2019,1336920,1969
+333,NI,-0.0029662,0.04305203,NiSource Inc.,Utilities,Multi-Utilities,"Merrillville, Indiana",,1111711,1912
+154,EIX,-0.00297704,0.042196655,Edison Int'l,Utilities,Electric Utilities,"Rosemead, California",,827052,1886
+116,CTL,-0.00300528,0.047258201,CenturyLink Inc,Communication Services,Alternative Carriers,"Monroe, Louisiana",3/25/1999,18926,
+369,PHM,-0.003024471,0.063490971,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",4/30/1984,822416,
+378,PPL,-0.00303149,0.044651039,PPL Corp.,Utilities,Electric Utilities,"Allentown, Pennsylvania",,922224,
+79,CBOE,-0.003034863,0.040571769,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",3/1/2017,1374310,
+259,JPM,-0.003049075,0.050921481,JPMorgan Chase & Co.,Financials,Diversified Banks,"New York, New York",6/30/1975,19617,
+280,LHX,-0.003063374,0.038333854,L3Harris Technologies,Industrials,Aerospace & Defense,"Melbourne, Florida",,202058,
+361,PEAK,-0.003072502,0.057543513,Healthpeak Properties,Real Estate,Health Care REITs,"Long Beach, California",3/31/2008,765880,
+19,AFL,-0.003076055,0.055850722,AFLAC Inc,Financials,Life & Health Insurance,"Columbus, Georgia",5/28/1999,4977,1955
+376,PNW,-0.003098128,0.042201676,Pinnacle West Capital,Utilities,Multi-Utilities,"Phoenix, Arizona",,764622,1985
+374,PNC,-0.003102896,0.054438663,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",4/30/1988,713676,
+225,HPQ,-0.003108913,0.052846835,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",12/31/1974,47217,1939 (2015)
+244,IPG,-0.00311555,0.053228978,Interpublic Group,Communication Services,Advertising,"New York, New York",10/1/1992,51644,
+293,LYV,-0.003187654,0.067686479,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",12/23/2019,1335258,2010
+380,PRU,-0.003207923,0.064439906,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",7/22/2002,1137774,
+220,HLT,-0.003212661,0.044642539,Hilton Worldwide Holdings Inc,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",6/19/2017,1585689,1919
+385,PXD,-0.003248889,0.078032412,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,"Irving, Texas",9/24/2008,1038357,
+201,GM,-0.003282337,0.056792762,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",6/6/2013,1467858,
+270,KO,-0.003287129,0.031545044,Coca-Cola Company,Consumer Staples,Soft Drinks,"Atlanta, Georgia",,21344,1886
+165,ETR,-0.003292747,0.045313706,Entergy Corp.,Utilities,Electric Utilities,"New Orleans, Louisiana",,65984,1913
+28,ALL,-0.003293261,0.04149316,Allstate Corp,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",7/13/1995,899051,1931
+448,TXT,-0.003296878,0.064473106,Textron Inc.,Industrials,Aerospace & Defense,"Providence, Rhode Island",12/31/1978,217346,
+142,DRI,-0.003339462,0.080295843,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",,940944,1938
+219,HII,-0.003407989,0.039039705,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",1/3/2018,1501585,
+199,GL,-0.003416318,0.050757751,Globe Life Inc.,Financials,Life & Health Insurance,"McKinney, Texas",4/30/1989,320335,
+80,CBRE,-0.003434219,0.058625832,CBRE Group,Real Estate,Real Estate Services,"Los Angeles, California",11/10/2006,1138118,
+98,CME,-0.003448544,0.046448652,CME Group Inc.,Financials,Financial Exchanges & Data,"Chicago, Illinois",8/11/2006,1156375,
+229,HST,-0.003453763,0.05513479,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",3/20/2007,1070750,
+390,RE,-0.003454394,0.046315359,Everest Re Group Ltd.,Financials,Reinsurance,"Hamilton, Bermuda",6/19/2017,1095073,
+162,ESS,-0.003468585,0.046403608,"Essex Property Trust, Inc.",Real Estate,Residential REITs,"Palo Alto, California",4/2/2014,920522,
+224,HPE,-0.003468591,0.050880499,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",11/2/2015,1645590,2015
+315,MPC,-0.003469008,0.078453038,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",7/1/2011,1510295,
+460,USB,-0.003475552,0.054763326,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
+74,C,-0.003491042,0.065162845,Citigroup Inc.,Financials,Diversified Banks,"New York, New York",5/31/1988,831001,
+285,LNC,-0.003541718,0.089653531,Lincoln National,Financials,Multi-line Insurance,"Radnor, Pennsylvania",6/30/1976,59558,
+133,DISCA,-0.003548284,0.044374396,"Discovery, Inc. (Class A)",Communication Services,Broadcasting,"Silver Spring, Maryland",3/1/2010,1437107,
+296,MAR,-0.003563229,0.060665247,Marriott Int'l.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",,1048286,1927
+350,O,-0.003590111,0.060341037,Realty Income Corporation,Real Estate,Retail REITs,"San Diego, California",4/7/2015,726728,
+452,UDR,-0.003600098,0.046170414,"UDR, Inc.",Real Estate,Residential REITs,"Highlands Ranch, Colorado",3/7/2016,74208,
+353,OMC,-0.003603794,0.043004582,Omnicom Group,Communication Services,Advertising,"New York, New York",,29989,1986
+427,SYY,-0.003663515,0.066199611,Sysco Corp.,Consumer Staples,Food Distributors,"Houston, Texas",12/31/1986,96021,
+88,CFG,-0.003698808,0.072309501,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island",1/29/2016,759944,
+321,MSI,-0.003735182,0.04155923,Motorola Solutions Inc.,Information Technology,Communications Equipment,"Chicago, Illinois",,68505,1928 (2011)
+475,WDC,-0.003738553,0.059981409,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","Irvine, California",7/1/2009,106040,
+454,ULTA,-0.003791553,0.059941172,Ulta Beauty,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",4/18/2016,1403568,1990
+21,AIV,-0.003803625,0.056709712,Apartment Investment & Management,Real Estate,Residential REITs,"Denver, Colorado",3/14/2003,922864,1994 (1975)
+430,TDG,-0.003844703,0.07101629,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",6/3/2016,1260221,
+432,TFC,-0.003858137,0.063220863,Truist Financial,Financials,Regional Banks,"Charlotte, North Carolina",12/4/1997,92230,
+425,SYF,-0.003870395,0.073779128,Synchrony Financial,Financials,Consumer Finance,"Stamford, Connecticut",11/18/2015,1601712,2003
+359,PBCT,-0.004001826,0.054532584,People's United Financial,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",11/13/2008,1378946,
+160,EQR,-0.004057332,0.044615581,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",12/3/2001,906107,
+87,CF,-0.004063603,0.052953593,CF Industries Holdings Inc,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",8/27/2008,1324404,
+122,CXO,-0.004077493,0.059878435,Concho Resources,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2/22/2016,1358071,
+27,ALK,-0.004083548,0.075053792,Alaska Air Group Inc,Industrials,Airlines,"Seattle, Washington",5/13/2016,766421,1985
+127,DFS,-0.004085546,0.083358936,Discover Financial Services,Financials,Consumer Finance,"Riverwoods, Illinois",7/2/2007,1393612,
+158,EOG,-0.004088266,0.068608003,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",11/2/2000,821189,
+214,HCA,-0.004095339,0.055890614,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",1/27/2015,860730,
+134,DISCK,-0.004103015,0.04410392,"Discovery, Inc. (Class C)",Communication Services,Broadcasting,"Silver Spring, Maryland",8/7/2014,1437107,
+51,AVB,-0.004136493,0.04776234,AvalonBay Communities,Real Estate,Residential REITs,"Arlington, Virginia[3]",1/10/2007,915912,
+183,FITB,-0.004136631,0.071055424,Fifth Third Bancorp,Financials,Regional Banks,"Cincinnati, Ohio",,35527,1858
+268,KMI,-0.004179003,0.055088693,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",5/25/2012,1506307,
+252,IVZ,-0.004180418,0.071575373,Invesco Ltd.,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",8/21/2008,914208,
+314,MOS,-0.004252441,0.072759821,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",9/26/2011,1285785,
+305,MGM,-0.004256993,0.092660334,MGM Resorts International,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",7/26/2017,789570,
+147,DXC,-0.00433354,0.090267279,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",4/4/2017,1688568,2017
+393,RF,-0.004375639,0.065607276,Regions Financial Corp.,Financials,Regional Banks,"Birmingham, Alabama",8/28/1998,1281761,
+291,LW,-0.004384653,0.052961843,Lamb Weston Holdings Inc,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",12/3/2018,1679273,2016 (1950)
+391,REG,-0.00442591,0.059347665,Regency Centers Corporation,Real Estate,Retail REITs,"Jacksonville, Florida",3/2/2017,910606,
+489,WYNN,-0.004437829,0.076722159,Wynn Resorts Ltd,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",11/14/2008,1174922,
+449,UA,-0.004498028,0.058955579,Under Armour (Class C),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",4/8/2016,1336917,
+456,UNM,-0.004509638,0.073420988,Unum Group,Financials,Life & Health Insurance,"Chattanooga, Tennessee",3/1/1994,5513,
+289,LUV,-0.004515915,0.057524553,Southwest Airlines,Industrials,Airlines,"Dallas, Texas",7/1/1994,92380,
+274,L,-0.004536902,0.05519747,Loews Corp.,Financials,Multi-line Insurance,"New York, New York",,60086,
+453,UHS,-0.004543891,0.063082317,"Universal Health Services, Inc.",Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",9/20/2014,352915,
+322,MTB,-0.004577023,0.05334231,M&T Bank Corp.,Financials,Regional Banks,"Buffalo, New York",,36270,1856
+20,AIG,-0.004577546,0.068497206,American International Group,Financials,Property & Casualty Insurance,"New York, New York",3/31/1980,5272,1919
+403,RTX,-0.004587002,0.053793758,Raytheon Technologies,Industrials,Aerospace & Defense,"Waltham, Massachusetts",,101829,1922
+96,CMA,-0.004605304,0.069780029,Comerica Inc.,Financials,Diversified Banks,"Dallas, Texas",12/1/1995,28412,
+218,HIG,-0.004611776,0.062227623,Hartford Financial Svc.Gp.,Financials,Property & Casualty Insurance,"Hartford, Connecticut",,874766,
+450,UAA,-0.004617796,0.060286053,Under Armour (Class A),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",5/1/2014,1336917,
+262,KEY,-0.00461948,0.071978421,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",3/1/1994,91576,
+185,FLS,-0.004632271,0.057117832,Flowserve Corporation,Industrials,Industrial Machinery,"Irving, Texas",10/2/2008,30625,
+317,MRO,-0.004716672,0.095869254,Marathon Oil Corp.,Energy,Oil & Gas Exploration & Production,"Houston, Texas",5/1/1991,101778,
+104,COF,-0.004892227,0.069869161,Capital One Financial,Financials,Consumer Finance,"Tysons Corner, Virginia",7/1/1998,927628,1935
+265,KIM,-0.004993232,0.067579648,Kimco Realty,Real Estate,Retail REITs,"New Hyde Park, New York",4/4/2006,879101,
+93,CINF,-0.005026511,0.053339758,Cincinnati Financial,Financials,Property & Casualty Insurance,"Fairfield, Ohio",12/18/1997,20286,
+411,SLB,-0.005036224,0.071806756,Schlumberger Ltd.,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",3/31/1965,87347,1926
+275,LB,-0.00503737,0.085285234,L Brands Inc.,Consumer Discretionary,Apparel Retail,"Columbus, Ohio",9/30/1983,701985,
+212,HBAN,-0.005072848,0.058526184,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio",,49196,1866
+191,FRT,-0.005099814,0.056696061,Federal Realty Investment Trust,Real Estate,Retail REITs,"Rockville, Maryland",2/1/2016,34903,
+470,VTR,-0.005134383,0.086067796,Ventas Inc,Real Estate,Health Care REITs,"Chicago, Illinois",3/4/2009,740260,
+429,TAP,-0.005145169,0.041109305,Molson Coors Brewing Company,Consumer Staples,Brewers,"Denver, Colorado",6/30/1976,24545,
+466,VNO,-0.005336077,0.061328976,Vornado Realty Trust,Real Estate,Office REITs,"New York, New York",,899689,1982
+173,FANG,-0.005409259,0.100788851,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",12/3/2018,1539838,2007
+73,BXP,-0.005504029,0.051399912,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",4/3/2006,1037540,
+57,BA,-0.005544574,0.085196797,Boeing Company,Industrials,Aerospace & Defense,"Chicago, Illinois",,12927,1916
+477,WELL,-0.005546241,0.072035587,Welltower Inc.,Real Estate,Health Care REITs,"Toledo, Ohio",1/30/2009,766704,
+396,RL,-0.005549691,0.051087664,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",2/2/2007,1037038,
+2,AAL,-0.005660619,0.093855854,American Airlines Group,Industrials,Airlines,"Fort Worth, Texas",3/23/2015,6201,1934
+146,DVN,-0.005661314,0.091612812,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",8/30/2000,1090012,
+196,GE,-0.00567585,0.055931626,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
+226,HRB,-0.005746101,0.056424042,H&R Block,Consumer Discretionary,Specialized Consumer Services,"Kansas City, Missouri",11/30/1986,12659,
+389,RCL,-0.00582777,0.108255592,Royal Caribbean Cruises Ltd,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",12/5/2014,884887,
+306,MHK,-0.006153333,0.071640272,Mohawk Industries,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",12/23/2013,851968,
+478,WFC,-0.006183932,0.057140881,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",6/30/1976,72971,
+383,PVH,-0.00626419,0.083161296,PVH Corp.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",2/15/2013,78239,
+338,NOV,-0.006266895,0.078380396,National Oilwell Varco Inc.,Energy,Oil & Gas Equipment & Services,"Houston, Texas",3/14/2005,1021860,
+327,NBL,-0.006345371,0.105228961,Noble Energy Inc,Energy,Oil & Gas Exploration & Production,"Houston, Texas",10/8/2007,72207,
+272,KSS,-0.006501557,0.087229751,Kohl's Corp.,Consumer Discretionary,General Merchandise Stores,"Menomonee Falls, Wisconsin",,885639,1962
+412,SLG,-0.006837648,0.066999527,SL Green Realty,Real Estate,Office REITs,"New York, New York",3/20/2015,1040971,
+124,DAL,-0.007209355,0.07645377,Delta Air Lines Inc.,Industrials,Airlines,"Atlanta, Georgia",9/11/2013,27904,1929
+439,TPR,-0.007604485,0.079553558,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",,1116132,2017
+451,UAL,-0.007644002,0.100082485,United Airlines Holdings,Industrials,Airlines,"Chicago, Illinois",9/3/2015,100517,1967
+356,OXY,-0.007900854,0.1155466,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",12/31/1982,797468,
+416,SPG,-0.0080258,0.087645926,Simon Property Group Inc,Real Estate,Retail REITs,"Indianapolis, Indiana",6/26/2002,1063761,2003
+14,ADS,-0.008045509,0.097667434,Alliance Data Systems,Information Technology,Data Processing & Outsourced Services,"Plano, Texas",12/23/2013,1101215,1996
+192,FTI,-0.008226852,0.082352717,TechnipFMC,Energy,Oil & Gas Equipment & Services,"London, United Kingdom",6/5/2009,1681459,2017 (1958)
+44,APA,-0.00832399,0.128861268,Apache Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",7/28/1997,6769,1954
+260,JWN,-0.00852742,0.08082286,Nordstrom,Consumer Discretionary,Department Stores,"Seattle, Washington",8/31/1986,72333,
+328,NCLH,-0.008768185,0.127252849,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",10/13/2017,1513761,
+82,CCL,-0.008967096,0.112133293,Carnival Corp.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",12/22/1998,815097,
+109,COTY,-0.009084661,0.097006843,"Coty, Inc",Consumer Staples,Personal Products,"New York, New York",10/3/2016,1024305,
+494,XRX,-0.009371488,0.060354648,Xerox,Information Technology,"Technology Hardware, Storage & Peripherals","Norwalk, Connecticut",,108772,1906
+352,OKE,-0.011187678,0.098172782,ONEOK,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",3/15/2010,1039684,
